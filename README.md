@@ -1,6 +1,7 @@
-### Hi there 👋
+[![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevAnna9408)](https://github.com/DevAnna9408/github-readme-stats)
 
 <!--
+### Hi there 👋
 **DevAnna9408/DevAnna9408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
