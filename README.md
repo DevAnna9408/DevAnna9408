@@ -1,5 +1,10 @@
-<p align="center">안녕하세요! FE / BE 웹 개발자 안상철 입니다.</p>
-<p align="center"> 포트폴리오 및 이력서는 [여기](https://devanna9408.github.io)를 참고 해 주세요 :) </p>
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=DevAnna9408&fontSize=90)
+
+안녕하세요! FE / BE 웹 개발자 안상철 입니다.
+
+포트폴리오 및 이력서는 [여기](https://devanna9408.github.io)를 참고 해 주세요 :)
+
+<hr />
 
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
