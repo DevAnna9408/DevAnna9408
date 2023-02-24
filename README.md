@@ -6,7 +6,6 @@
   
 </div>
 
-
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
@@ -15,12 +14,6 @@
 <img src="https://img.shields.io/badge/Kotlin-7F5EFF?style=flat-square&logo=Kotlin&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
 </p>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevAnna9408&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevAnna9408&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevAnna9408&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevAnna9408&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DevAnna9408&theme=github&utcOffset=8)
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevAnna9408&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
