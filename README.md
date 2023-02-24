@@ -1,8 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Soft&color=E34F26&height=300&section=header&text=DevAnna9408&fontSize=90&fontColor=ffffff)
 
-<p align="center">안녕하세요! FE / BE 웹 개발자 안상철입니다.</p>
-
-
 <div align="center">
   
 [![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevAnna9408&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
