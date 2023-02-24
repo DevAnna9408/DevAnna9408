@@ -1,9 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=DevAnna9408&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Soft&color=E34F26&height=300&section=header&text=DevAnna9408&fontSize=90&fontColor=ffffff)
 
+<div align="center">
 안녕하세요! FE / BE 웹 개발자 안상철 입니다.
 
 포트폴리오 및 이력서는 [여기](https://devanna9408.github.io)를 참고 해 주세요 :)
 
+</div>
 <hr />
 
 <p align="center">
