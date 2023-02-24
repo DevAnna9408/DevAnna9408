@@ -1,12 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=Soft&color=E34F26&height=300&section=header&text=DevAnna9408&fontSize=90&fontColor=ffffff)
 
 <div align="center">
-안녕하세요! FE / BE 웹 개발자 안상철 입니다.
-
-포트폴리오 및 이력서는 [여기](https://devanna9408.github.io)를 참고 해 주세요 :)
-
+  
+[![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevAnna9408&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
-<hr />
+
 
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
@@ -16,15 +15,6 @@
 <img src="https://img.shields.io/badge/Kotlin-7F5EFF?style=flat-square&logo=Kotlin&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
 </p>
-
-<div align="center">
-  
-[![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevAnna9408)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
----   
-
-
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevAnna9408&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
