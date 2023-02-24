@@ -1,4 +1,4 @@
-[![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevAnna9408)](https://github.com/DevAnna9408/github-readme-stats)
+[![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevAnna9408)]
 
 <!--
 ### Hi there 👋
