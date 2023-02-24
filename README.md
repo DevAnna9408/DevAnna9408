@@ -1,5 +1,8 @@
-[![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevAnna9408)]
+안녕하세요! FE / BE 웹 개발자 안상철 입니다.
 
+
+[![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevAnna9408)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 ### Hi there 👋
 **DevAnna9408/DevAnna9408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
