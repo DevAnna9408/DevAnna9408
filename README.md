@@ -17,8 +17,11 @@
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
 </p>
 
+<div align="center">
+  
 [![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevAnna9408)](https://github.com/anuraghazra/github-readme-stats)
-
+  
+</div>
 ---   
 
 
