@@ -33,7 +33,17 @@ Git, AWS, Docker, Jenkins
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
 
 Jira, Confluence, Slack, Jandi
-  
+
+### Reference 📔
+
+데이터베이스 개론 2판_김연희
+자바 ORM 표준 JPA 프로그래밍_김영한
+스프링 부트로 개발하는 MSA 컴포넌트_김병부
+스프링 부트와 AWS로 혼자 구현하는 웹 서비스_이동욱
+Do It 코틀린 프로그래밍_황영덕
+Do It Vue.js 입문_정기효
+Vue.js 프로젝트 투입 일주일 전_고승원
+
 </div>
 
 <!--
