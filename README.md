@@ -40,6 +40,10 @@ Git, AWS, Docker, Jenkins
 
 Jira, Confluence, Slack, Jandi
 
+### Education
+
+스마트미디어인재 개발원
+
 ### Reference 📔
 
 데이터베이스 개론 2판_김연희 
