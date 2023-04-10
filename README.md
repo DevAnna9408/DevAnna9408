@@ -54,6 +54,8 @@ Jira, Confluence, Slack, Jandi
 
 스프링 부트와 AWS로 혼자 구현하는 웹 서비스_이동욱 
 
+Do it! 클론 코딩 영화 평점 웹서비스
+
 Do It 코틀린 프로그래밍_황영덕 
 
 Do It Vue.js 입문_정기효 
