@@ -40,9 +40,10 @@ Git, AWS, Docker, Jenkins
 
 Jira, Confluence, Slack, Jandi
 
+<!--
+
 ### Reference 📔
 
-<!--
 데이터베이스 개론 2판_김연희 
 
 자바 ORM 표준 JPA 프로그래밍_김영한 
