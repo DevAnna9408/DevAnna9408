@@ -8,7 +8,7 @@
  
 개발 모토로 삼고 있습니다.
 
-  [![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevAnna9408&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+<!--  [![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevAnna9408&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)-->
 <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevAnna9408&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
    -->
   ### Frontend [HTML, CSS(SCSS), JavaScript, Vue.js]
