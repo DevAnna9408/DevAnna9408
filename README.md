@@ -2,11 +2,7 @@
 
 <div align=center>
   
-안녕하세요! <strong>FE/BE 웹 개발자</strong> 안상철입니다. 
- 
-<strong>클린코드, 즐거운 성장, 사용자 중심 사고를</strong> 
- 
-개발 모토로 삼고 있습니다.
+안녕하세요, <strong>FE/BE 웹 개발자</strong> 안상철입니다. 
 
 <!--  [![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevAnna9408&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)-->
 <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevAnna9408&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
